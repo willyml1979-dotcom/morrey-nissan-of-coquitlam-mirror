@@ -1,6 +1,6 @@
 {
   "dealership": "Morrey Nissan Of Coquitlam",
-  "generated_at": "2026-10-26T01:37:04",
+  "generated_at": "2026-10-26T01:43:52",
   "vehicle_count": 173,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
@@ -194,7 +194,7 @@
       "vin": "3N1AB9CV5TY204798",
       "url": "https://willyml1979-dotcom.github.io/morrey-nissan-of-coquitlam-mirror/new/c63158d30a76.html",
       "condition": "new",
-      "price": 30360.0,
+      "price": 28610.0,
       "price_currency": "CAD"
     },
     {
@@ -210,7 +210,7 @@
       "vin": "JN8BT3AB4TW095802",
       "url": "https://willyml1979-dotcom.github.io/morrey-nissan-of-coquitlam-mirror/new/95f88c94dbaf.html",
       "condition": "new",
-      "price": 37070.0,
+      "price": 32070.0,
       "price_currency": "CAD"
     },
     {
