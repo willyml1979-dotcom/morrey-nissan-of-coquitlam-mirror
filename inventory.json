@@ -1,13 +1,21 @@
 {
   "dealership": "Morrey Nissan Of Coquitlam",
-  "generated_at": "2026-10-25T16:23:59",
-  "vehicle_count": 172,
+  "generated_at": "2026-10-26T01:37:04",
+  "vehicle_count": 173,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
   "vehicles": [
     {
       "name": "Pre-Owned Vehicles",
-      "vin": "3N1CP5CV6PL476671",
+      "vin": "3N1AB8CVXRY342131",
+      "url": "https://willyml1979-dotcom.github.io/morrey-nissan-of-coquitlam-mirror/used/24b37f9b7ba0.html",
+      "condition": "used",
+      "price": 22989.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Pre-Owned Vehicles",
+      "vin": "3N1AB8CVXRY342131",
       "url": "https://willyml1979-dotcom.github.io/morrey-nissan-of-coquitlam-mirror/used/4adfb322817d.html",
       "condition": "used",
       "price": 22989.0,
@@ -15,7 +23,7 @@
     },
     {
       "name": "Pre-Owned Vehicles",
-      "vin": "3N1CP5CV6PL476671",
+      "vin": "3N1AB8CVXRY342131",
       "url": "https://willyml1979-dotcom.github.io/morrey-nissan-of-coquitlam-mirror/used/f6b1beac8b94.html",
       "condition": "used",
       "price": 22989.0,
@@ -1141,6 +1149,17 @@
       "price_currency": "CAD"
     },
     {
+      "name": "2021 Nissan Rogue",
+      "vin": "JN8AT3DD6MW317508",
+      "url": "https://willyml1979-dotcom.github.io/morrey-nissan-of-coquitlam-mirror/used/0259455f656b.html",
+      "year": 2021,
+      "make": "Nissan",
+      "model": "Rogue",
+      "condition": "used",
+      "price": 25989.0,
+      "price_currency": "CAD"
+    },
+    {
       "name": "2022 Chevrolet Spark",
       "vin": "KL8CD6SA6NC030340",
       "url": "https://willyml1979-dotcom.github.io/morrey-nissan-of-coquitlam-mirror/used/f37d190d41ce.html",
@@ -1240,17 +1259,6 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2024 Nissan Frontier",
-      "vin": "1N6ED1EK7RN627902",
-      "url": "https://willyml1979-dotcom.github.io/morrey-nissan-of-coquitlam-mirror/used/24b37f9b7ba0.html",
-      "year": 2024,
-      "make": "Nissan",
-      "model": "Frontier",
-      "condition": "used",
-      "price": 45989.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "2024 Nissan Kicks",
       "vin": "3N1CP5BV6RL588410",
       "url": "https://willyml1979-dotcom.github.io/morrey-nissan-of-coquitlam-mirror/used/f416d702b8cb.html",
@@ -1258,7 +1266,7 @@
       "make": "Nissan",
       "model": "Kicks",
       "condition": "used",
-      "price": 22989.0,
+      "price": 21989.0,
       "price_currency": "CAD"
     },
     {
