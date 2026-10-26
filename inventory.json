@@ -1,6 +1,6 @@
 {
   "dealership": "Morrey Nissan Of Coquitlam",
-  "generated_at": "2026-10-26T10:05:20",
+  "generated_at": "2026-10-26T10:13:19",
   "vehicle_count": 173,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
@@ -346,7 +346,7 @@
       "vin": "3N8AP6BE7TL405523",
       "url": "https://willyml1979-dotcom.github.io/morrey-nissan-of-coquitlam-mirror/new/c2ce3bbf6937.html",
       "condition": "new",
-      "price": 29140.0,
+      "price": 27640.0,
       "price_currency": "CAD"
     },
     {
@@ -354,7 +354,7 @@
       "vin": "3N8AP6BE9TL404356",
       "url": "https://willyml1979-dotcom.github.io/morrey-nissan-of-coquitlam-mirror/new/09184d738cea.html",
       "condition": "new",
-      "price": 29140.0,
+      "price": 27640.0,
       "price_currency": "CAD"
     },
     {
@@ -422,12 +422,10 @@
       "price_currency": "CAD"
     },
     {
-      "name": "Nissan2026 Kicks S AWD",
-      "vin": "3N8AP6BB4TL416470",
+      "name": "New Vehicles in Inventory",
+      "vin": "3N8AP6BE8TL429281",
       "url": "https://willyml1979-dotcom.github.io/morrey-nissan-of-coquitlam-mirror/new/dfad12d356c9.html",
-      "condition": "new",
-      "price": 29340.0,
-      "price_currency": "CAD"
+      "condition": "new"
     },
     {
       "name": "Nissan2026 Rogue Rock Creek",
