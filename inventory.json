@@ -1,6 +1,6 @@
 {
   "dealership": "Morrey Nissan Of Coquitlam",
-  "generated_at": "2026-10-26T01:43:52",
+  "generated_at": "2026-10-26T10:05:20",
   "vehicle_count": 173,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
@@ -31,7 +31,15 @@
     },
     {
       "name": "Pre-Owned Vehicles",
-      "vin": "3N1CP5CV6PL476671",
+      "vin": "3N1AB8CVXRY342131",
+      "url": "https://willyml1979-dotcom.github.io/morrey-nissan-of-coquitlam-mirror/used/8d8c4d161e93.html",
+      "condition": "used",
+      "price": 22989.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Pre-Owned Vehicles",
+      "vin": "3N1AB8CVXRY342131",
       "url": "https://willyml1979-dotcom.github.io/morrey-nissan-of-coquitlam-mirror/used/02fd772306e2.html",
       "condition": "used",
       "price": 22989.0,
@@ -1190,17 +1198,6 @@
       "model": "Rogue",
       "condition": "used",
       "price": 31989.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2023 Nissan Rogue",
-      "vin": "JN8BT3DD0PW321479",
-      "url": "https://willyml1979-dotcom.github.io/morrey-nissan-of-coquitlam-mirror/used/8d8c4d161e93.html",
-      "year": 2023,
-      "make": "Nissan",
-      "model": "Rogue",
-      "condition": "used",
-      "price": 32989.0,
       "price_currency": "CAD"
     },
     {
