@@ -1,7 +1,7 @@
 {
   "dealership": "Morrey Nissan Of Coquitlam",
-  "generated_at": "2026-11-17T13:35:42",
-  "vehicle_count": 172,
+  "generated_at": "2026-11-17T13:54:12",
+  "vehicle_count": 139,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
   "vehicles": [
@@ -25,14 +25,6 @@
       "name": "Nissan2026 Rogue SV Moonroof",
       "vin": "JN8BT3BB5TW090588",
       "url": "https://willyml1979-dotcom.github.io/morrey-nissan-of-coquitlam-mirror/new/82dac57b15fe.html",
-      "condition": "new",
-      "price": 34997.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "Nissan2026 Rogue SV Moonroof",
-      "vin": "JN8BT3BB8TW090584",
-      "url": "https://willyml1979-dotcom.github.io/morrey-nissan-of-coquitlam-mirror/new/df3f7b189964.html",
       "condition": "new",
       "price": 34997.0,
       "price_currency": "CAD"
@@ -70,35 +62,11 @@
       "price_currency": "CAD"
     },
     {
-      "name": "Nissan2026 Sentra SV Premium",
-      "vin": "3N1AB9CV3TY234754",
-      "url": "https://willyml1979-dotcom.github.io/morrey-nissan-of-coquitlam-mirror/new/e2c884db00d1.html",
-      "condition": "new",
-      "price": 28860.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "Nissan2026 Rogue SV Moonroof",
       "vin": "JN8BT3BB2TW376561",
       "url": "https://willyml1979-dotcom.github.io/morrey-nissan-of-coquitlam-mirror/new/ef32a1122c07.html",
       "condition": "new",
       "price": 33797.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "Nissan2026 Rogue S",
-      "vin": "JN8BT3ABXTW093665",
-      "url": "https://willyml1979-dotcom.github.io/morrey-nissan-of-coquitlam-mirror/new/0b152afdc092.html",
-      "condition": "new",
-      "price": 32320.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "Nissan2026 Rogue Platinum",
-      "vin": "JN8BT3DD4TW482590",
-      "url": "https://willyml1979-dotcom.github.io/morrey-nissan-of-coquitlam-mirror/new/bc43aacf460c.html",
-      "condition": "new",
-      "price": 40997.0,
       "price_currency": "CAD"
     },
     {
@@ -123,54 +91,6 @@
       "url": "https://willyml1979-dotcom.github.io/morrey-nissan-of-coquitlam-mirror/new/80c8172ed5f7.html",
       "condition": "new",
       "price": 43120.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "Nissan2026 Rogue Platinum",
-      "vin": "JN8BT3DDXTW482884",
-      "url": "https://willyml1979-dotcom.github.io/morrey-nissan-of-coquitlam-mirror/new/f51c93607eb4.html",
-      "condition": "new",
-      "price": 0.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "Nissan2026 Rogue Platinum",
-      "vin": "JN8BT3DD2TW482863",
-      "url": "https://willyml1979-dotcom.github.io/morrey-nissan-of-coquitlam-mirror/new/62f5adaf4bd7.html",
-      "condition": "new",
-      "price": 43120.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "Nissan2026 Rogue Platinum",
-      "vin": "JN8BT3DD1TW308962",
-      "url": "https://willyml1979-dotcom.github.io/morrey-nissan-of-coquitlam-mirror/new/988a3e5563d3.html",
-      "condition": "new",
-      "price": 43665.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "Nissan2026 Sentra SV Premium",
-      "vin": "3N1AB9CV5TY204798",
-      "url": "https://willyml1979-dotcom.github.io/morrey-nissan-of-coquitlam-mirror/new/c63158d30a76.html",
-      "condition": "new",
-      "price": 28610.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "Nissan2026 Rogue Platinum",
-      "vin": "JN8BT3DD1TW482711",
-      "url": "https://willyml1979-dotcom.github.io/morrey-nissan-of-coquitlam-mirror/new/78c717a4baf9.html",
-      "condition": "new",
-      "price": 43120.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "Nissan2026 Rogue S",
-      "vin": "JN8BT3AB4TW095802",
-      "url": "https://willyml1979-dotcom.github.io/morrey-nissan-of-coquitlam-mirror/new/95f88c94dbaf.html",
-      "condition": "new",
-      "price": 32070.0,
       "price_currency": "CAD"
     },
     {
@@ -239,14 +159,6 @@
     },
     {
       "name": "Nissan2026 Rogue Platinum",
-      "vin": "JN8BT3DD4TW313623",
-      "url": "https://willyml1979-dotcom.github.io/morrey-nissan-of-coquitlam-mirror/new/b1f03c396991.html",
-      "condition": "new",
-      "price": 43120.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "Nissan2026 Rogue Platinum",
       "vin": "JN8BT3DD9TW485680",
       "url": "https://willyml1979-dotcom.github.io/morrey-nissan-of-coquitlam-mirror/new/f4e80b385739.html",
       "condition": "new",
@@ -275,30 +187,6 @@
       "url": "https://willyml1979-dotcom.github.io/morrey-nissan-of-coquitlam-mirror/new/b37a983635b9.html",
       "condition": "new",
       "price": 32235.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "Nissan2026 Rogue Platinum",
-      "vin": "JN8BT3DD6TW315602",
-      "url": "https://willyml1979-dotcom.github.io/morrey-nissan-of-coquitlam-mirror/new/bdc53121bac8.html",
-      "condition": "new",
-      "price": 43120.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "Nissan2026 Rogue Platinum",
-      "vin": "JN8BT3DD9TW485839",
-      "url": "https://willyml1979-dotcom.github.io/morrey-nissan-of-coquitlam-mirror/new/b18dae624c18.html",
-      "condition": "new",
-      "price": 43120.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "Nissan2026 Kicks S FWD",
-      "vin": "3N8AP6BE7TL405523",
-      "url": "https://willyml1979-dotcom.github.io/morrey-nissan-of-coquitlam-mirror/new/c2ce3bbf6937.html",
-      "condition": "new",
-      "price": 27640.0,
       "price_currency": "CAD"
     },
     {
@@ -334,14 +222,6 @@
       "price_currency": "CAD"
     },
     {
-      "name": "Nissan2026 Rogue Plug-in Hybrid Platinum",
-      "vin": "JA4T0MA98TZ612541",
-      "url": "https://willyml1979-dotcom.github.io/morrey-nissan-of-coquitlam-mirror/new/b0a62250838b.html",
-      "condition": "new",
-      "price": 50935.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "Nissan2026 Rogue Platinum",
       "vin": "JN8BT3DD2TW317119",
       "url": "https://willyml1979-dotcom.github.io/morrey-nissan-of-coquitlam-mirror/new/6ca2faf863dc.html",
@@ -358,33 +238,11 @@
       "price_currency": "CAD"
     },
     {
-      "name": "Nissan2026 Rogue Platinum",
-      "vin": "JN8BT3DD8TW487744",
-      "url": "https://willyml1979-dotcom.github.io/morrey-nissan-of-coquitlam-mirror/new/57f4a1addbe4.html",
-      "condition": "new",
-      "price": 43120.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "Nissan2026 Kicks SR Premium AWD",
       "vin": "3N8AP6DDXTL416326",
       "url": "https://willyml1979-dotcom.github.io/morrey-nissan-of-coquitlam-mirror/new/d58407870f64.html",
       "condition": "new",
       "price": 35385.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "New Vehicles in Inventory",
-      "vin": "3N8AP6BE8TL429281",
-      "url": "https://willyml1979-dotcom.github.io/morrey-nissan-of-coquitlam-mirror/new/dfad12d356c9.html",
-      "condition": "new"
-    },
-    {
-      "name": "Nissan2026 Rogue Rock Creek",
-      "vin": "JN8BT3BB7TW383361",
-      "url": "https://willyml1979-dotcom.github.io/morrey-nissan-of-coquitlam-mirror/new/cf7bbf7ce198.html",
-      "condition": "new",
-      "price": 39520.0,
       "price_currency": "CAD"
     },
     {
@@ -400,15 +258,7 @@
       "vin": "JN8BT3BB2TW383364",
       "url": "https://willyml1979-dotcom.github.io/morrey-nissan-of-coquitlam-mirror/new/f90f1ea898da.html",
       "condition": "new",
-      "price": 36170.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "Nissan2026 Rogue Platinum",
-      "vin": "JN8BT3DD8TW486626",
-      "url": "https://willyml1979-dotcom.github.io/morrey-nissan-of-coquitlam-mirror/new/e8c4bcfabc49.html",
-      "condition": "new",
-      "price": 43665.0,
+      "price": 41170.0,
       "price_currency": "CAD"
     },
     {
@@ -417,14 +267,6 @@
       "url": "https://willyml1979-dotcom.github.io/morrey-nissan-of-coquitlam-mirror/new/cb69b10f3942.html",
       "condition": "new",
       "price": 39270.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "Nissan2026 Rogue Platinum",
-      "vin": "JN8BT3DD2TW488193",
-      "url": "https://willyml1979-dotcom.github.io/morrey-nissan-of-coquitlam-mirror/new/35958743a4d3.html",
-      "condition": "new",
-      "price": 43120.0,
       "price_currency": "CAD"
     },
     {
@@ -468,14 +310,6 @@
       "price_currency": "CAD"
     },
     {
-      "name": "Nissan2026 Rogue Platinum",
-      "vin": "JN8BT3DD3TW488381",
-      "url": "https://willyml1979-dotcom.github.io/morrey-nissan-of-coquitlam-mirror/new/23dca4340b6f.html",
-      "condition": "new",
-      "price": 43665.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "Nissan2026 Rogue Rock Creek",
       "vin": "JN8BT3BB2TW385129",
       "url": "https://willyml1979-dotcom.github.io/morrey-nissan-of-coquitlam-mirror/new/289fc064ac14.html",
@@ -513,14 +347,6 @@
       "url": "https://willyml1979-dotcom.github.io/morrey-nissan-of-coquitlam-mirror/new/f98f8351ff32.html",
       "condition": "new",
       "price": 39270.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "Nissan2026 Rogue Platinum",
-      "vin": "JN8BT3DD4TW487322",
-      "url": "https://willyml1979-dotcom.github.io/morrey-nissan-of-coquitlam-mirror/new/9d95a27a89ef.html",
-      "condition": "new",
-      "price": 43665.0,
       "price_currency": "CAD"
     },
     {
@@ -572,67 +398,11 @@
       "price_currency": "CAD"
     },
     {
-      "name": "Nissan2026 Rogue Plug-in Hybrid Platinum",
-      "vin": "JA4T0MA91TZ620173",
-      "url": "https://willyml1979-dotcom.github.io/morrey-nissan-of-coquitlam-mirror/new/0ac49f280ec7.html",
-      "condition": "new",
-      "price": 51435.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "Nissan2026 Rogue Platinum",
-      "vin": "JN8BT3DDXTW324027",
-      "url": "https://willyml1979-dotcom.github.io/morrey-nissan-of-coquitlam-mirror/new/362fff62d102.html",
-      "condition": "new",
-      "price": 43665.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "Nissan2026 Rogue Platinum",
-      "vin": "JN8BT3DD1TW491277",
-      "url": "https://willyml1979-dotcom.github.io/morrey-nissan-of-coquitlam-mirror/new/076c337a44cf.html",
-      "condition": "new",
-      "price": 43120.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "Nissan2026 Rogue Platinum",
-      "vin": "JN8BT3DD6TW490335",
-      "url": "https://willyml1979-dotcom.github.io/morrey-nissan-of-coquitlam-mirror/new/8534d495ca7e.html",
-      "condition": "new",
-      "price": 43120.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "Nissan2026 Rogue Platinum",
-      "vin": "JN8BT3DD1TW490405",
-      "url": "https://willyml1979-dotcom.github.io/morrey-nissan-of-coquitlam-mirror/new/526fb1dbe8cb.html",
-      "condition": "new",
-      "price": 43120.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "Nissan2026 Rogue S",
       "vin": "JN8BT3AB3TW100648",
       "url": "https://willyml1979-dotcom.github.io/morrey-nissan-of-coquitlam-mirror/new/fb344f039308.html",
       "condition": "new",
       "price": 32070.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "Nissan2026 ARIYA SL+ e-4ORCE",
-      "vin": "JN8DF0BF4TM800853",
-      "url": "https://willyml1979-dotcom.github.io/morrey-nissan-of-coquitlam-mirror/new/df9047094c13.html",
-      "condition": "new",
-      "price": 55040.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "Nissan2026 ARIYA SL+ e-4ORCE",
-      "vin": "JN8DF0BF1TM800728",
-      "url": "https://willyml1979-dotcom.github.io/morrey-nissan-of-coquitlam-mirror/new/06fa2a7cb442.html",
-      "condition": "new",
-      "price": 55040.0,
       "price_currency": "CAD"
     },
     {
@@ -649,22 +419,6 @@
       "url": "https://willyml1979-dotcom.github.io/morrey-nissan-of-coquitlam-mirror/new/ccf4ae5b5c37.html",
       "condition": "new",
       "price": 39520.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "Nissan2026 Kicks SV Premium AWD",
-      "vin": "3N8AP6CBXTL393131",
-      "url": "https://willyml1979-dotcom.github.io/morrey-nissan-of-coquitlam-mirror/new/2b330dec0510.html",
-      "condition": "new",
-      "price": 32535.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "Nissan2026 Rogue Platinum",
-      "vin": "JN8BT3DD9TW324830",
-      "url": "https://willyml1979-dotcom.github.io/morrey-nissan-of-coquitlam-mirror/new/5e5cd3fda74f.html",
-      "condition": "new",
-      "price": 43120.0,
       "price_currency": "CAD"
     },
     {
@@ -697,38 +451,6 @@
       "url": "https://willyml1979-dotcom.github.io/morrey-nissan-of-coquitlam-mirror/new/a28108c989af.html",
       "condition": "new",
       "price": 39520.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "Nissan2026 Rogue S",
-      "vin": "JN8BT3ABXTW100923",
-      "url": "https://willyml1979-dotcom.github.io/morrey-nissan-of-coquitlam-mirror/new/da0730afdf6d.html",
-      "condition": "new",
-      "price": 32320.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "Nissan2026 Rogue Platinum",
-      "vin": "JN8BT3DD1TW325034",
-      "url": "https://willyml1979-dotcom.github.io/morrey-nissan-of-coquitlam-mirror/new/13280f1fbd95.html",
-      "condition": "new",
-      "price": 43665.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "Nissan2026 Rogue Platinum",
-      "vin": "JN8BT3DD1TW324949",
-      "url": "https://willyml1979-dotcom.github.io/morrey-nissan-of-coquitlam-mirror/new/88b9f298e093.html",
-      "condition": "new",
-      "price": 43665.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "Nissan2026 Rogue Platinum",
-      "vin": "JN8BT3DD2TW493667",
-      "url": "https://willyml1979-dotcom.github.io/morrey-nissan-of-coquitlam-mirror/new/63b4ddfcd150.html",
-      "condition": "new",
-      "price": 43120.0,
       "price_currency": "CAD"
     },
     {
@@ -772,57 +494,9 @@
       "price_currency": "CAD"
     },
     {
-      "name": "Nissan2026 LEAF SV Plus",
-      "vin": "JN1AZ2CA7TM306686",
-      "url": "https://willyml1979-dotcom.github.io/morrey-nissan-of-coquitlam-mirror/new/ef2922e47be0.html",
-      "condition": "new",
-      "price": 43590.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "Nissan2026 LEAF Platinum Plus",
-      "vin": "JN1AZ2EB0TM307667",
-      "url": "https://willyml1979-dotcom.github.io/morrey-nissan-of-coquitlam-mirror/new/5fd44ffd19e6.html",
-      "condition": "new",
-      "price": 48935.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "Nissan2026 LEAF Platinum Plus",
       "vin": "JN1AZ2EB3TM308490",
       "url": "https://willyml1979-dotcom.github.io/morrey-nissan-of-coquitlam-mirror/new/09ccca259adc.html",
-      "condition": "new",
-      "price": 48935.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "Nissan2026 LEAF Platinum Plus",
-      "vin": "JN1AZ2EB5TM308040",
-      "url": "https://willyml1979-dotcom.github.io/morrey-nissan-of-coquitlam-mirror/new/91a2d874fd00.html",
-      "condition": "new",
-      "price": 48935.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "Nissan2026 LEAF SV Plus",
-      "vin": "JN1AZ2CA7TM308499",
-      "url": "https://willyml1979-dotcom.github.io/morrey-nissan-of-coquitlam-mirror/new/ad5d3afdacb7.html",
-      "condition": "new",
-      "price": 43590.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "Nissan2026 LEAF SV Plus",
-      "vin": "JN1AZ2CAXTM307962",
-      "url": "https://willyml1979-dotcom.github.io/morrey-nissan-of-coquitlam-mirror/new/52d90dcfc94c.html",
-      "condition": "new",
-      "price": 43590.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "Nissan2026 LEAF Platinum Plus",
-      "vin": "JN1AZ2EB9TM307912",
-      "url": "https://willyml1979-dotcom.github.io/morrey-nissan-of-coquitlam-mirror/new/fde5f09235b8.html",
       "condition": "new",
       "price": 48935.0,
       "price_currency": "CAD"
@@ -940,14 +614,6 @@
       "price_currency": "CAD"
     },
     {
-      "name": "Nissan2026 Pathfinder Rock Creek",
-      "vin": "5N1DR3BE2TC291729",
-      "url": "https://willyml1979-dotcom.github.io/morrey-nissan-of-coquitlam-mirror/new/87188f20faea.html",
-      "condition": "new",
-      "price": 58540.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "Nissan2027 Kicks SR Premium AWD",
       "vin": "3N8AP6DD3VL321965",
       "url": "https://willyml1979-dotcom.github.io/morrey-nissan-of-coquitlam-mirror/new/d546d3eddcff.html",
@@ -1049,6 +715,78 @@
       "url": "https://willyml1979-dotcom.github.io/morrey-nissan-of-coquitlam-mirror/new/6f5814f43eba.html",
       "condition": "new",
       "price": 62890.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Nissan2027 Kicks Rock Creek AWD",
+      "vin": "3N8AP6CB1VL320250",
+      "url": "https://willyml1979-dotcom.github.io/morrey-nissan-of-coquitlam-mirror/new/6172551bca3b.html",
+      "condition": "new",
+      "price": 36140.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Nissan2027 LEAF Platinum+",
+      "vin": "JN1AZ2EB1VM401897",
+      "url": "https://willyml1979-dotcom.github.io/morrey-nissan-of-coquitlam-mirror/new/6b4c749417a0.html",
+      "condition": "new",
+      "price": 51135.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Nissan2027 Sentra SR",
+      "vin": "3N1AB9DV0VY242408",
+      "url": "https://willyml1979-dotcom.github.io/morrey-nissan-of-coquitlam-mirror/new/329dc1f18cf6.html",
+      "condition": "new",
+      "price": 33320.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Nissan2027 Sentra SR",
+      "vin": "3N1AB9DV2VY242541",
+      "url": "https://willyml1979-dotcom.github.io/morrey-nissan-of-coquitlam-mirror/new/17e75ea12c9c.html",
+      "condition": "new",
+      "price": 33105.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Nissan2027 Kicks SR Premium AWD",
+      "vin": "3N8AP6DD3VL332562",
+      "url": "https://willyml1979-dotcom.github.io/morrey-nissan-of-coquitlam-mirror/new/e27bbb0b357c.html",
+      "condition": "new",
+      "price": 38190.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Nissan2027 Kicks SR Premium AWD",
+      "vin": "3N8AP6DD1VL322466",
+      "url": "https://willyml1979-dotcom.github.io/morrey-nissan-of-coquitlam-mirror/new/c4965131d0f6.html",
+      "condition": "new",
+      "price": 38440.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Nissan2027 Kicks Rock Creek AWD",
+      "vin": "3N8AP6CB8VL321458",
+      "url": "https://willyml1979-dotcom.github.io/morrey-nissan-of-coquitlam-mirror/new/37038447977c.html",
+      "condition": "new",
+      "price": 36140.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Nissan2027 Kicks SR Premium AWD",
+      "vin": "3N8AP6DD1VL333452",
+      "url": "https://willyml1979-dotcom.github.io/morrey-nissan-of-coquitlam-mirror/new/cabbfa01ce7d.html",
+      "condition": "new",
+      "price": 38440.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Nissan2027 Sentra S",
+      "vin": "3N1AB9BVXVY242287",
+      "url": "https://willyml1979-dotcom.github.io/morrey-nissan-of-coquitlam-mirror/new/32b52e0ea0fe.html",
+      "condition": "new",
+      "price": 28160.0,
       "price_currency": "CAD"
     },
     {
