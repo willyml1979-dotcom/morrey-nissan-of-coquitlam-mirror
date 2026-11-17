@@ -1,58 +1,10 @@
 {
   "dealership": "Morrey Nissan Of Coquitlam",
-  "generated_at": "2026-10-26T10:13:19",
-  "vehicle_count": 173,
+  "generated_at": "2026-11-17T13:35:42",
+  "vehicle_count": 172,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
   "vehicles": [
-    {
-      "name": "Pre-Owned Vehicles",
-      "vin": "3N1AB8CVXRY342131",
-      "url": "https://willyml1979-dotcom.github.io/morrey-nissan-of-coquitlam-mirror/used/24b37f9b7ba0.html",
-      "condition": "used",
-      "price": 22989.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "Pre-Owned Vehicles",
-      "vin": "3N1AB8CVXRY342131",
-      "url": "https://willyml1979-dotcom.github.io/morrey-nissan-of-coquitlam-mirror/used/4adfb322817d.html",
-      "condition": "used",
-      "price": 22989.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "Pre-Owned Vehicles",
-      "vin": "3N1AB8CVXRY342131",
-      "url": "https://willyml1979-dotcom.github.io/morrey-nissan-of-coquitlam-mirror/used/f6b1beac8b94.html",
-      "condition": "used",
-      "price": 22989.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "Pre-Owned Vehicles",
-      "vin": "3N1AB8CVXRY342131",
-      "url": "https://willyml1979-dotcom.github.io/morrey-nissan-of-coquitlam-mirror/used/8d8c4d161e93.html",
-      "condition": "used",
-      "price": 22989.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "Pre-Owned Vehicles",
-      "vin": "3N1AB8CVXRY342131",
-      "url": "https://willyml1979-dotcom.github.io/morrey-nissan-of-coquitlam-mirror/used/02fd772306e2.html",
-      "condition": "used",
-      "price": 22989.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "Pre-Owned Vehicles",
-      "vin": "3N1AB8CVXRY342131",
-      "url": "https://willyml1979-dotcom.github.io/morrey-nissan-of-coquitlam-mirror/used/4dc205739fc7.html",
-      "condition": "used",
-      "price": 22989.0,
-      "price_currency": "CAD"
-    },
     {
       "name": "Nissan2026 Rogue SV Moonroof",
       "vin": "JN8BT3BB2TW372042",
@@ -1111,14 +1063,14 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2018 Toyota Highlander",
-      "vin": "5TDDGRFH7JS046986",
-      "url": "https://willyml1979-dotcom.github.io/morrey-nissan-of-coquitlam-mirror/used/d182b0684006.html",
-      "year": 2018,
-      "make": "Toyota",
-      "model": "Highlander",
+      "name": "2019 Nissan Kicks",
+      "vin": "3N1CP5CU4KL556454",
+      "url": "https://willyml1979-dotcom.github.io/morrey-nissan-of-coquitlam-mirror/used/f49856d59605.html",
+      "year": 2019,
+      "make": "Nissan",
+      "model": "Kicks",
       "condition": "used",
-      "price": 35989.0,
+      "price": 14989.0,
       "price_currency": "CAD"
     },
     {
@@ -1166,14 +1118,36 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2022 Chevrolet Spark",
-      "vin": "KL8CD6SA6NC030340",
-      "url": "https://willyml1979-dotcom.github.io/morrey-nissan-of-coquitlam-mirror/used/f37d190d41ce.html",
+      "name": "2022 Nissan Armada",
+      "vin": "JN8AY2BBXN9813876",
+      "url": "https://willyml1979-dotcom.github.io/morrey-nissan-of-coquitlam-mirror/used/cde973d93702.html",
       "year": 2022,
-      "make": "Chevrolet",
-      "model": "Spark",
+      "make": "Nissan",
+      "model": "Armada",
       "condition": "used",
-      "price": 16989.0,
+      "price": 47989.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2022 Nissan Rogue",
+      "vin": "5N1AT3AB4NC684646",
+      "url": "https://willyml1979-dotcom.github.io/morrey-nissan-of-coquitlam-mirror/used/bb0f38afd94a.html",
+      "year": 2022,
+      "make": "Nissan",
+      "model": "Rogue",
+      "condition": "used",
+      "price": 23989.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2023 Chevrolet Colorado",
+      "vin": "1GCPTDEK3P1180893",
+      "url": "https://willyml1979-dotcom.github.io/morrey-nissan-of-coquitlam-mirror/used/571052b057b2.html",
+      "year": 2023,
+      "make": "Chevrolet",
+      "model": "Colorado",
+      "condition": "used",
+      "price": 45989.0,
       "price_currency": "CAD"
     },
     {
@@ -1184,29 +1158,29 @@
       "make": "Kia",
       "model": "Seltos",
       "condition": "used",
-      "price": 21989.0,
+      "price": 20989.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2023 Nissan LEAF",
+      "vin": "1N4CZ1DV3PC555909",
+      "url": "https://willyml1979-dotcom.github.io/morrey-nissan-of-coquitlam-mirror/used/c79b1b2c2c20.html",
+      "year": 2023,
+      "make": "Nissan",
+      "model": "LEAF",
+      "condition": "used",
+      "price": 26989.0,
       "price_currency": "CAD"
     },
     {
       "name": "2023 Nissan Rogue",
-      "vin": "JN8BT3DD6PW305125",
-      "url": "https://willyml1979-dotcom.github.io/morrey-nissan-of-coquitlam-mirror/used/f1805fe62c01.html",
+      "vin": "JN8BT3DD4PW318407",
+      "url": "https://willyml1979-dotcom.github.io/morrey-nissan-of-coquitlam-mirror/used/52cc3233fdbd.html",
       "year": 2023,
       "make": "Nissan",
       "model": "Rogue",
       "condition": "used",
-      "price": 31989.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2024 Nissan Pathfinder",
-      "vin": "5N1DR3AC3RC201397",
-      "url": "https://willyml1979-dotcom.github.io/morrey-nissan-of-coquitlam-mirror/used/ac424b847870.html",
-      "year": 2024,
-      "make": "Nissan",
-      "model": "Pathfinder",
-      "condition": "used",
-      "price": 37989.0,
+      "price": 30989.0,
       "price_currency": "CAD"
     },
     {
@@ -1217,7 +1191,7 @@
       "make": "Nissan",
       "model": "Rogue",
       "condition": "used",
-      "price": 31989.0,
+      "price": 32989.0,
       "price_currency": "CAD"
     },
     {
@@ -1228,7 +1202,7 @@
       "make": "Nissan",
       "model": "Rogue",
       "condition": "used",
-      "price": 26989.0,
+      "price": 24989.0,
       "price_currency": "CAD"
     },
     {
@@ -1239,7 +1213,7 @@
       "make": "Nissan",
       "model": "Rogue",
       "condition": "used",
-      "price": 26989.0,
+      "price": 25989.0,
       "price_currency": "CAD"
     },
     {
@@ -1287,17 +1261,6 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2024 Nissan Sentra",
-      "vin": "3N1AB8CV9RY367196",
-      "url": "https://willyml1979-dotcom.github.io/morrey-nissan-of-coquitlam-mirror/used/3bdb39067d21.html",
-      "year": 2024,
-      "make": "Nissan",
-      "model": "Sentra",
-      "condition": "used",
-      "price": 22989.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "2024 Nissan Frontier",
       "vin": "1N6ED1EK0RN624226",
       "url": "https://willyml1979-dotcom.github.io/morrey-nissan-of-coquitlam-mirror/used/0ea4648975d5.html",
@@ -1317,17 +1280,6 @@
       "model": "Pathfinder",
       "condition": "used",
       "price": 43989.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2024 Nissan Kicks",
-      "vin": "3N1CP5BV1RL568369",
-      "url": "https://willyml1979-dotcom.github.io/morrey-nissan-of-coquitlam-mirror/used/556f3fbcad9b.html",
-      "year": 2024,
-      "make": "Nissan",
-      "model": "Kicks",
-      "condition": "used",
-      "price": 20989.0,
       "price_currency": "CAD"
     },
     {
@@ -1353,6 +1305,50 @@
       "price_currency": "CAD"
     },
     {
+      "name": "2024 Nissan Kicks",
+      "vin": "3N1CP5CV8RL563944",
+      "url": "https://willyml1979-dotcom.github.io/morrey-nissan-of-coquitlam-mirror/used/e3fc564421c4.html",
+      "year": 2024,
+      "make": "Nissan",
+      "model": "Kicks",
+      "condition": "used",
+      "price": 22989.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2024 Nissan Kicks",
+      "vin": "3N1CP5CV8RL588245",
+      "url": "https://willyml1979-dotcom.github.io/morrey-nissan-of-coquitlam-mirror/used/fd465cfb297c.html",
+      "year": 2024,
+      "make": "Nissan",
+      "model": "Kicks",
+      "condition": "used",
+      "price": 22989.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2024 Nissan Kicks",
+      "vin": "3N1CP5DV2RL549696",
+      "url": "https://willyml1979-dotcom.github.io/morrey-nissan-of-coquitlam-mirror/used/7ab0bf5c8a36.html",
+      "year": 2024,
+      "make": "Nissan",
+      "model": "Kicks",
+      "condition": "used",
+      "price": 25989.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2024 Nissan Rogue",
+      "vin": "JN8BT3BBXRW182479",
+      "url": "https://willyml1979-dotcom.github.io/morrey-nissan-of-coquitlam-mirror/used/d7a4781569ee.html",
+      "year": 2024,
+      "make": "Nissan",
+      "model": "Rogue",
+      "condition": "used",
+      "price": 30989.0,
+      "price_currency": "CAD"
+    },
+    {
       "name": "2024 Volkswagen Golf R",
       "vin": "WVWEB7CD6RW206084",
       "url": "https://willyml1979-dotcom.github.io/morrey-nissan-of-coquitlam-mirror/used/49fa6157de6f.html",
@@ -1372,6 +1368,17 @@
       "model": "Seltos",
       "condition": "used",
       "price": 22979.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2025 Mitsubishi Outlander Plug-In Hybrid",
+      "vin": "JA4T5VA97SZ602556",
+      "url": "https://willyml1979-dotcom.github.io/morrey-nissan-of-coquitlam-mirror/used/41c4cfeed757.html",
+      "year": 2025,
+      "make": "Mitsubishi",
+      "model": "Outlander Plug-In Hybrid",
+      "condition": "used",
+      "price": 44989.0,
       "price_currency": "CAD"
     },
     {
@@ -1492,7 +1499,7 @@
       "make": "Infiniti",
       "model": "QX80",
       "condition": "used",
-      "price": 129999.0,
+      "price": 99357.0,
       "price_currency": "CAD"
     }
   ]
