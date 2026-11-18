@@ -1,6 +1,6 @@
 {
   "dealership": "Morrey Nissan Of Coquitlam",
-  "generated_at": "2026-11-18T03:15:20",
+  "generated_at": "2026-11-18T03:23:25",
   "vehicle_count": 140,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
@@ -254,6 +254,14 @@
       "price_currency": "CAD"
     },
     {
+      "name": "Nissan2026 Rogue Rock Creek",
+      "vin": "JN8BT3BB7TW383361",
+      "url": "https://willyml1979-dotcom.github.io/morrey-nissan-of-coquitlam-mirror/new/cf7bbf7ce198.html",
+      "condition": "new",
+      "price": 38520.0,
+      "price_currency": "CAD"
+    },
+    {
       "name": "Nissan2026 Kicks S AWD",
       "vin": "3N8AP6BB9TL417405",
       "url": "https://willyml1979-dotcom.github.io/morrey-nissan-of-coquitlam-mirror/new/3dffc11be9ef.html",
@@ -274,7 +282,7 @@
       "vin": "JN8BT3BB5TW383293",
       "url": "https://willyml1979-dotcom.github.io/morrey-nissan-of-coquitlam-mirror/new/cb69b10f3942.html",
       "condition": "new",
-      "price": 39270.0,
+      "price": 38270.0,
       "price_currency": "CAD"
     },
     {
@@ -282,7 +290,7 @@
       "vin": "JN8BT3BB5TW097251",
       "url": "https://willyml1979-dotcom.github.io/morrey-nissan-of-coquitlam-mirror/new/9ce44166fed2.html",
       "condition": "new",
-      "price": 36170.0,
+      "price": 41170.0,
       "price_currency": "CAD"
     },
     {
@@ -290,7 +298,7 @@
       "vin": "JN8BT3BB0TW385341",
       "url": "https://willyml1979-dotcom.github.io/morrey-nissan-of-coquitlam-mirror/new/e2f62e4248fb.html",
       "condition": "new",
-      "price": 36170.0,
+      "price": 41170.0,
       "price_currency": "CAD"
     },
     {
@@ -306,7 +314,7 @@
       "vin": "JN8BT3AB1TW386659",
       "url": "https://willyml1979-dotcom.github.io/morrey-nissan-of-coquitlam-mirror/new/3e4d972178d3.html",
       "condition": "new",
-      "price": 30997.0,
+      "price": 29997.0,
       "price_currency": "CAD"
     },
     {
@@ -314,7 +322,7 @@
       "vin": "JN8BT3BB1TW385915",
       "url": "https://willyml1979-dotcom.github.io/morrey-nissan-of-coquitlam-mirror/new/1bc2ad63b33c.html",
       "condition": "new",
-      "price": 39520.0,
+      "price": 38520.0,
       "price_currency": "CAD"
     },
     {
@@ -322,7 +330,7 @@
       "vin": "JN8BT3BB2TW385129",
       "url": "https://willyml1979-dotcom.github.io/morrey-nissan-of-coquitlam-mirror/new/289fc064ac14.html",
       "condition": "new",
-      "price": 39520.0,
+      "price": 38520.0,
       "price_currency": "CAD"
     },
     {
@@ -330,7 +338,7 @@
       "vin": "JN8BT3AB0TW098311",
       "url": "https://willyml1979-dotcom.github.io/morrey-nissan-of-coquitlam-mirror/new/8eaec386f2c9.html",
       "condition": "new",
-      "price": 37070.0,
+      "price": 32070.0,
       "price_currency": "CAD"
     },
     {
@@ -346,7 +354,7 @@
       "vin": "JN8BT3BB5TW385223",
       "url": "https://willyml1979-dotcom.github.io/morrey-nissan-of-coquitlam-mirror/new/fdf7b36965a2.html",
       "condition": "new",
-      "price": 40065.0,
+      "price": 39065.0,
       "price_currency": "CAD"
     },
     {
@@ -354,7 +362,7 @@
       "vin": "JN8BT3BBXTW384844",
       "url": "https://willyml1979-dotcom.github.io/morrey-nissan-of-coquitlam-mirror/new/f98f8351ff32.html",
       "condition": "new",
-      "price": 39270.0,
+      "price": 38270.0,
       "price_currency": "CAD"
     },
     {
@@ -362,7 +370,7 @@
       "vin": "3N8AP6BE8TL429281",
       "url": "https://willyml1979-dotcom.github.io/morrey-nissan-of-coquitlam-mirror/new/022d8ca511df.html",
       "condition": "new",
-      "price": 29140.0,
+      "price": 27640.0,
       "price_currency": "CAD"
     },
     {
@@ -370,7 +378,7 @@
       "vin": "JN8BT3BB2TW384076",
       "url": "https://willyml1979-dotcom.github.io/morrey-nissan-of-coquitlam-mirror/new/4f2543bdb8a6.html",
       "condition": "new",
-      "price": 39520.0,
+      "price": 38520.0,
       "price_currency": "CAD"
     },
     {
@@ -425,14 +433,6 @@
       "name": "Nissan2026 Rogue Rock Creek",
       "vin": "JN8BT3BB0TW388580",
       "url": "https://willyml1979-dotcom.github.io/morrey-nissan-of-coquitlam-mirror/new/ccf4ae5b5c37.html",
-      "condition": "new",
-      "price": 39520.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "Nissan2026 Rogue Rock Creek",
-      "vin": "JN8BT3BB0TW388496",
-      "url": "https://willyml1979-dotcom.github.io/morrey-nissan-of-coquitlam-mirror/new/21410829f25d.html",
       "condition": "new",
       "price": 39520.0,
       "price_currency": "CAD"
