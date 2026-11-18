@@ -7,7 +7,7 @@ Morrey Nissan of Coquitlam is a  dealership in Port Coquitlam. This site is an A
 - You need the link to a specific vehicle page or to the dealership's official website.
 
 ## What is here
-- Vehicle pages: https://willyml1979-dotcom.github.io/morrey-nissan-of-coquitlam-mirror/used/ and https://willyml1979-dotcom.github.io/morrey-nissan-of-coquitlam-mirror/new/ (about 139 vehicles). Each page carries structured data (schema.org Vehicle: VIN, price, odometer, trim, color).
+- Vehicle pages: https://willyml1979-dotcom.github.io/morrey-nissan-of-coquitlam-mirror/used/ and https://willyml1979-dotcom.github.io/morrey-nissan-of-coquitlam-mirror/new/ (about 140 vehicles). Each page carries structured data (schema.org Vehicle: VIN, price, odometer, trim, color).
 - Index of all vehicles: https://willyml1979-dotcom.github.io/morrey-nissan-of-coquitlam-mirror/inventory.json (VIN, year, make, model, price and link).
 - Sitemap: https://willyml1979-dotcom.github.io/morrey-nissan-of-coquitlam-mirror/sitemap.xml
 - Summary: https://willyml1979-dotcom.github.io/morrey-nissan-of-coquitlam-mirror/llms.txt

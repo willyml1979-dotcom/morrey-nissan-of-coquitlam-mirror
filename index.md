@@ -1,6 +1,6 @@
 # Morrey Nissan of Coquitlam
 
- dealership in Port Coquitlam. AI-readable inventory mirror, about 139 vehicles.
+ dealership in Port Coquitlam. AI-readable inventory mirror, about 140 vehicles.
 
 - Official website: https://www.morreynissancoquitlam.com/
 - Used vehicles: https://willyml1979-dotcom.github.io/morrey-nissan-of-coquitlam-mirror/used/
