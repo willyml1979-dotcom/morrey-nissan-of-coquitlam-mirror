@@ -1,6 +1,6 @@
 {
   "dealership": "Morrey Nissan Of Coquitlam",
-  "generated_at": "2026-11-18T22:31:51",
+  "generated_at": "2026-11-18T22:36:51",
   "vehicle_count": 140,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
@@ -18,7 +18,7 @@
       "vin": "JN8BT3BB2TW372042",
       "url": "https://willyml1979-dotcom.github.io/morrey-nissan-of-coquitlam-mirror/new/8999015f643c.html",
       "condition": "new",
-      "price": 33997.0,
+      "price": 38997.0,
       "price_currency": "CAD"
     },
     {
@@ -498,7 +498,7 @@
       "vin": "5N1AZ3DS1VC103100",
       "url": "https://willyml1979-dotcom.github.io/morrey-nissan-of-coquitlam-mirror/new/764248f92291.html",
       "condition": "new",
-      "price": 58990.0,
+      "price": 57990.0,
       "price_currency": "CAD"
     },
     {
@@ -522,7 +522,7 @@
       "vin": "5N1AZ3DS2VC100657",
       "url": "https://willyml1979-dotcom.github.io/morrey-nissan-of-coquitlam-mirror/new/ecc6e8666eae.html",
       "condition": "new",
-      "price": 58990.0,
+      "price": 57990.0,
       "price_currency": "CAD"
     },
     {
@@ -530,7 +530,7 @@
       "vin": "5N1AZ3CSXVC100259",
       "url": "https://willyml1979-dotcom.github.io/morrey-nissan-of-coquitlam-mirror/new/6a3e4ea0b926.html",
       "condition": "new",
-      "price": 56090.0,
+      "price": 55090.0,
       "price_currency": "CAD"
     },
     {
@@ -538,7 +538,7 @@
       "vin": "5N1AZ3CS2VC104936",
       "url": "https://willyml1979-dotcom.github.io/morrey-nissan-of-coquitlam-mirror/new/3773b3a078b1.html",
       "condition": "new",
-      "price": 56390.0,
+      "price": 55390.0,
       "price_currency": "CAD"
     },
     {
@@ -554,7 +554,7 @@
       "vin": "5N1AZ3DS4VC104533",
       "url": "https://willyml1979-dotcom.github.io/morrey-nissan-of-coquitlam-mirror/new/4143777e3825.html",
       "condition": "new",
-      "price": 58990.0,
+      "price": 57990.0,
       "price_currency": "CAD"
     },
     {
